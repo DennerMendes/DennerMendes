@@ -45,13 +45,6 @@ Atualmente, sou estagiário na **MedService**, atuando no desenvolvimento do sis
 
 ---
 
-### Formação
-
-**Técnico em Informática**  
-Escola Estadual de Educação Profissional (EEEP)
-
----
-
 ### Conecte-se comigo
 
 <div align="center">
